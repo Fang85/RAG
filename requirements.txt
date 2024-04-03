@@ -1,0 +1,6 @@
+langchain-community
+-U langchain-openai
+-U langchain-text-splitters
+gpt4all
+chromadb
+pypdf
